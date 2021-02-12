@@ -11,7 +11,7 @@ description: >-
 
 Bütün programlar, projenin amacını belirten şartların tanımlanması ile başlar. Gereksinimler, programcıya verilen girdiler\(input\) ve bu girdiler sonucunda üretilmesi gereken çıktının\(output\) ne olacağı sorusuyla tanımlanır.
 
-## 2. Analiz - Çözümleme
+## 2. Analiz - Çözümleme <a id="2-analiz-cozumleme"></a>
 
 Sistemin gereksinimlerini belirledikten sonra ilk yapılacak işlerden biri problemi analiz etmektir. İki yolu vardır:
 

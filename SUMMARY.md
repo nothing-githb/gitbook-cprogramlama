@@ -7,4 +7,5 @@
   * [Sıralama Algoritmaları](algoritmalar/siralama-algoritmalari/README.md)
     * [Selection Sort](algoritmalar/siralama-algoritmalari/selection-sort.md)
 * [Algoritma Analizi](algoritma-analizi.md)
+* [Problemler](problemler.md)
 
