@@ -2,10 +2,16 @@
 
 * [Hakkında](README.md)
 * [C Hakkında](c-hakkinda.md)
-* [Veri Yapıları](veri-yapilari.md)
+* [Veri Yapıları](veri-yapilari/README.md)
+  * [Diziler ve Matrisler](veri-yapilari/diziler-ve-matrisler.md)
+  * [Yığıt ve Kuyruk](veri-yapilari/yigit-ve-kuyruk.md)
 * [Algoritmalar](algoritmalar/README.md)
   * [Sıralama Algoritmaları](algoritmalar/siralama-algoritmalari/README.md)
     * [Selection Sort](algoritmalar/siralama-algoritmalari/selection-sort.md)
 * [Algoritma Analizi](algoritma-analizi.md)
 * [Problemler](problemler.md)
+
+## asdsa
+
+* [Untitled](asdsa/untitled.md)
 
