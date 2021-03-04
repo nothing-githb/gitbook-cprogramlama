@@ -18,6 +18,10 @@ h
 
 ## Futexes Are Tricky
 
+{% hint style="info" %}
+resim ekle
+{% endhint %}
+
 
 
 
