@@ -69,7 +69,7 @@ int futex_broadcast(atomic_int *addr)
 
 **FUTEX\_WAKE**_**\_**_**PRIVATE** == **\(FUTEX\_WAKE \| FUTEX\_PRIVATE\_FLAG\)** 
 
-## Futex ile Koşul Değişkenleri Uygulanması
+## Futex ile Condition Variables Uygulanması
 
 Öncesinde mutex implementasyonumuz olduğunu varsayarak koşul değişkenlerini futex ile implemente etmeye çalışacağız.
 
