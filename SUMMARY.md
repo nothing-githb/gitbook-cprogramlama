@@ -11,4 +11,6 @@
 * [Algoritma Analizi](algoritma-analizi.md)
 * [Problemler](problemler.md)
 * [Mutex](mutex.md)
+* [Futex](futex/README.md)
+  * [Condition Variable](futex/condition-variable.md)
 
