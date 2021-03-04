@@ -1,6 +1,6 @@
 # Algoritmalar
 
-## Getting Super Powers
+## [Getting Super Powers](siralama-algoritmalari/selection-sort.md)
 
 Becoming a super hero is a fairly straight forward process:
 

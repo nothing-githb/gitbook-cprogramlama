@@ -10,12 +10,5 @@
     * [Selection Sort](algoritmalar/siralama-algoritmalari/selection-sort.md)
 * [Algoritma Analizi](algoritma-analizi.md)
 * [Problemler](problemler.md)
-
-## asdsa
-
-* [Untitled](asdsa/untitled.md)
-
----
-
-* [Mutex]()
+* [Mutex](mutex.md)
 
