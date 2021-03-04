@@ -1,4 +1,2 @@
 # Algoritma Analizi
 
-Al
-
