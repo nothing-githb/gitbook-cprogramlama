@@ -10,7 +10,7 @@
     * [Selection Sort](algoritmalar/siralama-algoritmalari/selection-sort.md)
 * [Algoritma Analizi](algoritma-analizi.md)
 * [Problemler](problemler.md)
-* [Mutex](mutex.md)
 * [Futex](futex/README.md)
+  * [Mutex](futex/mutex.md)
   * [Condition Variable](futex/condition-variable.md)
 

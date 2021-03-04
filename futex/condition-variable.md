@@ -90,11 +90,6 @@ int cnd_init(cnd_t *cv)
         return thrd_success;
 }
 
-void cnd_destroy(cnd_t *cv)
-{
-        (void) cv;
-}
-
 int cnd_wait(cnd_t *cv, mtx_t *mtx)
 {
         mtx_unlock(mtx),
@@ -103,13 +98,15 @@ int cnd_wait(cnd_t *cv, mtx_t *mtx)
         return thrd_success;
 }
 
-/* cnd_timedwait() omitted for simplicity */
+/* wake 1 process */
 
 int cnd_signal(cnd_t *cv)
 {
         futex_signal(&cv->value);
         return thrd_success;
 }
+
+/* wake all processes */
 
 int cnd_broadcast(cnd_t *cv)
 {

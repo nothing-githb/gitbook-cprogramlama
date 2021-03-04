@@ -1,4 +1,2 @@
 # Problemler
 
-Pro
-
