@@ -10,8 +10,6 @@ Mutex ve Condition değişkenleri spinlock ve spin read\_write lock'lardan ayrı
 
 Futex'in implementasyonu oldukça zordur. Bir çok race condition durumu meydana gelebilmektedir. Dolayısıyla mutex ve condition değişkenleri implemente edilmeden önce temel çalışma prensipleri dikkatlice incelenmelidir.
 
-
-
 Ulrich Drepper yazdığı makale ile bu konudaki zorlukları örneklerle göstermiştir.\([Futexes Are Tricky](http://www.akkadia.org/drepper/futex.pdf)\)
 
 {% hint style="info" %}
