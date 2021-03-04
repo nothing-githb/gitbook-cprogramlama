@@ -1,2 +1,2 @@
-# C Hakkında
+# C
 
